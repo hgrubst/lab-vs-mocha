@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "inlineSourceMap": true,
+        "watch": true
+    },
+    
+    "compileOnSave": true,
+    
+    "files": [
+        "testMocha/test.ts",
+        "testMocha/folder1/test1-mocha.ts",
+        "testMocha/folder2/test2-mocha.ts",
+        "testLab/test.ts",
+        "testLab/folder1/test1-lab.ts",
+        "testLab/folder2/test2-lab.ts",
+        "typings/main.d.ts"
+    ]
+}
